@@ -2,9 +2,9 @@
 
 ## description
 
-Alpine docker image for arm. 
-Tested only on Raspberry Pi 3. 
-Based on xataz Alpine docker image https://github.com/xataz/docker-alpine 
+Alpine docker image for arm.  
+Tested only on Raspberry Pi 3.  
+Based on xataz Alpine docker image https://github.com/xataz/docker-alpine  
 
 ## github
 [https://github.com/PierExMachina/docker-alpine](https://github.com/PierExMachina/docker-alpine)
